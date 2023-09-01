@@ -1,1 +1,2 @@
 <h2>Welcome students</h2>
+<h2>We are learning Git</h2>
